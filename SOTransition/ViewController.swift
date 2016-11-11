@@ -12,7 +12,6 @@ class ViewController: UIViewController {
 
     @IBOutlet weak var tblTransition: UITableView!
     var arrTransition = NSMutableArray()
-    //let objEffect = EffectManager()
     
     override func viewDidLoad() {
         super.viewDidLoad()
